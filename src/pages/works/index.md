@@ -1,6 +1,6 @@
 ---
-templateKey: 'product-page'
-path: /products
+templateKey: 'work-page'
+path: /works
 title: Our Coffee
 image: /img/jumbotron.jpg
 heading: Great coffee with a conscience
