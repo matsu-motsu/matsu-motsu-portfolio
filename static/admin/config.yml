@@ -12,8 +12,8 @@ backend:
     deleteMedia: '[skip ci] Delete “{{path}}”'
 
 publish_mode: editorial_workflow
-site_url: https://matsu-motsu.me
-display_url: https://matsu-motsu.me
+site_url: https://matsu-motsu.work
+display_url: https://matsu-motsu.work
 
 media_folder: static/img
 public_folder: /img
